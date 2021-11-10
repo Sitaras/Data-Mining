@@ -6,7 +6,7 @@
 ```
 
 ### Team 
-- [gianniskp](https://github.com/giannhskp)
+- [giannhskp](https://github.com/giannhskp)
 - [sitaras](https://github.com/Sitaras)
 
 
